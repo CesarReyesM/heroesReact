@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Probando authReducer debe de conectar 1`] = `<authReducer />`;
+
+exports[`Probando authReducer debe de retornar el estado por defecto 1`] = `<authReducer />`;
